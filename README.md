@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I’m Farida Ashraf Hanafy
+**Computer Science Junior @ Nile University** | Passionate Developer | Problem Solver  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/farida-ashraf-0091a0301)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-red?style=flat&logo=gmail)](mailto:Fariida.hanafy@gmail.com)
 
-<!--
-**fariioodaazz/fariioodaazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I’m a motivated **Computer Science student** with a **3.95/4.0 GPA**, passionate about building full-stack applications and solving real-world problems. I thrive in collaborative environments and enjoy leveraging technology to create impactful solutions. Currently seeking a **Software Engineering Internship** to expand my skills!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technical Skills
+- **Languages:** `C/C++` | `Java` | `Python` | `JavaScript`
+- **Web Development:** `HTML/CSS` | `React` | `Django` | `Tailwind CSS` | `RESTful APIs`
+- **Databases:** `MySQL` 
+- **Data Analysis:** `NumPy` | `Pandas` | `Matplotlib`
+- **Tools:** `Git` | `Windows Forms`
+
+---
+
+## 🌍 Languages
+- **English** (Fluent) | **Arabic** (Native) | **French** (Basic)  
+
+---
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fariioodaazz&show_icons=true&theme=radical)](https://github.com/fariioodaazz)  
+*Let’s connect and build something amazing!* ✨
