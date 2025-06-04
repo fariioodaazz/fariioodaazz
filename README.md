@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me
-I’m a motivated **Computer Science student** with a **3.95/4.0 GPA**, passionate about building full-stack applications and solving real-world problems. I thrive in collaborative environments and enjoy leveraging technology to create impactful solutions. Currently seeking a **Software Engineering Internship** to expand my skills!
+I’m a motivated **Computer Science student**, passionate about building full-stack applications and solving real-world problems. I thrive in collaborative environments and enjoy leveraging technology to create impactful solutions. Currently seeking a **Software Engineering Internship** to expand my skills!
 
 ---
 
